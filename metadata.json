@@ -1,0 +1,6 @@
+{
+  "name": "Prosper1ty",
+  "description": "Prosper1ty Guild",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
